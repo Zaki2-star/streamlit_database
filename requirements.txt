@@ -1,6 +1,5 @@
 scikit-learn
 streamlit
-accuracy_score
 numpy==2.1.3
 pandas==2.2.3
 pip==24.3.1
