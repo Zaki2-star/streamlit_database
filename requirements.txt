@@ -1,0 +1,9 @@
+StandardScaler
+train_test_split
+RandomForestClassifier
+accuracy_score
+pickle
+numpy==2.1.3
+pandas==2.2.3
+streamlit
+pip==24.3.1
